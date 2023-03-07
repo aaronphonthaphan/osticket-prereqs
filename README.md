@@ -18,10 +18,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/9x0e06b.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+First we are going want to RDP into our VM (if you are going to use one). Just find the public IP of the VM and connect with RDP.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/AHEJz0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First we are going to open up the web browser and paste the following link.
+We are going to open up the web browser and paste the following link.
 https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 </p>
 <br />
