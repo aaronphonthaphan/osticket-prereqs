@@ -55,7 +55,7 @@ Hit OK and wait for everything to install and apply changes.
 <br />
 
 <p>
-<img src="https://i.imgur.com/U7RUUyI.png"/>
+<img src="https://i.imgur.com/oocDORu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now in a new browser tab, type 127.0.0.1 (this is your loopback IP, if you don't know what that is google it). You then should see the IIS page popup, if you don't, go back and make sure you actually installed IIS with CGI.
@@ -63,7 +63,7 @@ Now in a new browser tab, type 127.0.0.1 (this is your loopback IP, if you don't
 <br />
 
 <p>
-<img src="https://i.imgur.com/Xx05Dva.png"/>
+<img src="https://i.imgur.com/LEs0xkr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now from the drive folder install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_en-US.msi
