@@ -71,7 +71,7 @@ Now from the drive folder install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_
 <br />
 
 <p>
-<img src="https://i.imgur.com/No25WUQ.png"/>
+<img src="https://i.imgur.com/PTUWGf7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a new directory called C:\PHP
@@ -79,7 +79,7 @@ Create a new directory called C:\PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/IA8113C.png"/>
+<img src="https://i.imgur.com/7d7kXY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now install php-7.3.8-nts-Win32-VC15-x86.zip, move and extract all the contents into C:\PHP
@@ -87,7 +87,7 @@ Now install php-7.3.8-nts-Win32-VC15-x86.zip, move and extract all the contents 
 <br />
 
 <p>
-<img src="https://i.imgur.com/PZ3BXsF.png"/>
+<img src="https://i.imgur.com/a92AxFB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install VC_redist.x86.exe.
@@ -104,7 +104,7 @@ Download and install mysql-5.5.62-win32.msi
 <br />
 
 <p>
-<img src="https://i.imgur.com/kfk7PPp.png"/>
+<img src="https://i.imgur.com/a92AxFB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open IIS as administrator as shown above.
