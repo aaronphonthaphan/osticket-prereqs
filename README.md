@@ -35,7 +35,7 @@ https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 <br />
 
 <p>
-<img src="https://i.imgur.com/mpO8frk.png"/>
+<img src="https://i.imgur.com/juwJOuV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to the Programs section in Control Panel and click on "Turn Windows features on or off".
@@ -43,7 +43,7 @@ Go to the Programs section in Control Panel and click on "Turn Windows features 
 <br />
 
 <p>
-<img src="https://i.imgur.com/7GVFsMN.png"/>
+<img src="https://i.imgur.com/knnxxEZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows WITH CGI
